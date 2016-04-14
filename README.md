@@ -1,4 +1,10 @@
 
+``` bash
+
+npm install schell
+
+```
+
 ``` javascript
 
 import { $_ } from 'schell'
